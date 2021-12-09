@@ -64,6 +64,11 @@ ul{
     border-radius: 3px;
 }
 
+.gitlink, .projets{
+    text-decoration: none;
+    color: #00A3F5;
+}
+
 /* PRESENTATION */
 
 .presentation{
